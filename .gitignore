@@ -216,3 +216,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+CAD_SRC/History/
+CAD_SRC/__Previews/SW_SWITCHED_LPF_BANK.SchDocPreview
