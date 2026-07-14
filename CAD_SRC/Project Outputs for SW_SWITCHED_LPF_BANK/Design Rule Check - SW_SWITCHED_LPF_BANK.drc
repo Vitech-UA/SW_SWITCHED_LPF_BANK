@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\RADIO_ELECTRONICS\cxem\Радіостанції, рації, ВЧ підсилювачі і т.д\Підсилювачі\SW_SWITCHED_LPF_BANK\CAD_SRC\SW_SWITCHED_LPF_BANK.PcbDoc
-Date     : 13.07.2026
-Time     : 23:14:17
+Date     : 14.07.2026
+Time     : 22:31:56
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
@@ -66,4 +66,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01
