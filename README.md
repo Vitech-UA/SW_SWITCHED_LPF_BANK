@@ -13,4 +13,11 @@
 
 Напруга живлення плати — 24 В.
 
+## Зовнішній вигляд
 ![Зовнішній вигляд плати](MEDIA/TOP.jpg)
+![Зовнішній вигляд плати](MEDIA/TOP_EMPTY.jpg)
+![Зовнішній вигляд плати](MEDIA/BOT_EMPTY.jpg)
+
+## Збірка 
+![Збірка](MEDIA/TOP_PROCESS.jpg)
+![Збірка](MEDIA/BOT_PROCESS.jpg)
