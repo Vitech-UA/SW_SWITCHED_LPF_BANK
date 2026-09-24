@@ -51,7 +51,7 @@
 
 | Верхня сторона | Нижня сторона |
 |:---:|:---:|
-| <img src="MEDIA/TOP_PROCESS.jpg" width="350"> | <img src="MEDIA/BOT_PROCESS.jpg" width="350"> |
+| <img src="MEDIA/TOP_PROCESS.jpg" width="450"> | <img src="MEDIA/BOT_PROCESS.jpg" width="450"> |
 
 ---
 
