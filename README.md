@@ -35,9 +35,10 @@
 
 ## Зовнішній вигляд
 
+
 | Верхня сторона плати | Верхня сторона без компонентів | Нижня сторона |
 |:---:|:---:|:---:|
-| ![TOP](MEDIA/TOP.jpg) | ![TOP EMPTY](MEDIA/TOP_EMPTY.jpg) | ![BOT EMPTY](MEDIA/BOT_EMPTY.jpg) |
+| <img src="MEDIA/TOP.jpg" width="300"> | <img src="MEDIA/TOP_EMPTY.jpg" width="300"> | <img src="MEDIA/BOT_EMPTY.jpg" width="300"> |
 
 ## Збірка
 
