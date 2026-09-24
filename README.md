@@ -85,11 +85,11 @@
 
 **S21 — Передача**
 
-<img src="MEDIA/7.2MHZ/S21_7.2M.png" width="800">
+<img src="MEDIA/7.2MHZ/S21_7.2M.png" width="1200">
 
 **S11 — Відбиття**
 
-<img src="MEDIA/7.2MHZ/S11_7.2M.png" width="800">
+<img src="MEDIA/7.2MHZ/S11_7.2M.png" width="1200">
 
 </details>
 
