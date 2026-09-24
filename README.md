@@ -19,6 +19,9 @@
 | 20 м | 14 МГц | 0 | 0 | 1 | 0 | `0010` |
 | 15 м | 21 МГц | 0 | 1 | 1 | 0 | `0110` |
 
+## Розрахунок 7,2 МГЦ. [LC Filter Design Tool](https://markimicrowave.com/technical-resources/tools/lc-filter-design-tool/)
+![CALC](MEDIA/7.2MHZ/CALC_7.2.jpg)
+
 ## Зовнішній вигляд
 ![Зовнішній вигляд плати](MEDIA/TOP.jpg)
 ![Зовнішній вигляд плати](MEDIA/TOP_EMPTY.jpg)
@@ -31,3 +34,7 @@
 ## Налаштування 7,2 МГц
 ![Налаштування 7,2 МГц](MEDIA/7.2MHZ/7.2_1.jpg)
 ![Налаштування 7,2 МГц](MEDIA/7.2MHZ/7.2_2.jpg)
+
+## Результат 7,2 МГц
+![S21](MEDIA/7.2MHZ/S21_7.2M.png)
+![S11](MEDIA/7.2MHZ/S11_7.2M.png)
