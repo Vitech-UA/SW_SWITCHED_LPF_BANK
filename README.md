@@ -49,7 +49,7 @@
 ---
 
 
-## Налаштування та результати вимірювань ФНЧ
+## Налаштування та результати вимірювань ФНЧ (Розкриваються)
 
 <details>
 <summary><b>80 м — 3,6 МГц</b></summary>
@@ -85,11 +85,11 @@
 
 **S21 — Передача**
 
-<img src="MEDIA/7.2MHZ/S21_7.2M.png" width="650">
+<img src="MEDIA/7.2MHZ/S21_7.2M.png" width="800">
 
 **S11 — Відбиття**
 
-<img src="MEDIA/7.2MHZ/S11_7.2M.png" width="650">
+<img src="MEDIA/7.2MHZ/S11_7.2M.png" width="800">
 
 </details>
 
