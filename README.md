@@ -40,7 +40,7 @@
 |:---:|:---:|:---:|
 | <img src="MEDIA/TOP.jpg" width="300"> | <img src="MEDIA/TOP_EMPTY.jpg" width="300"> | <img src="MEDIA/BOT_EMPTY.jpg" width="300"> |
 
-## Збірка
+## Збірка (Без L & C)
 
 | Верхня сторона | Нижня сторона |
 |:---:|:---:|
