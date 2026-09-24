@@ -87,7 +87,7 @@
 
 | Етап 1 | Етап 2 |
 |:---:|:---:|
-| <img src="MEDIA/7.2MHZ/7.2_1.jpg" width="250"> | <img src="MEDIA/7.2MHZ/7.2_2.jpg" width="250"> |
+| <img src="MEDIA/7.2MHZ/7.2_1.jpg" width="600"> | <img src="MEDIA/7.2MHZ/7.2_2.jpg" width="600"> |
 
 #### Результати вимірювань
 
