@@ -18,8 +18,11 @@
 | 40 м | 7 МГц | 0 | 1 | 0 | 0 | `0100` |
 | 20 м | 14 МГц | 0 | 0 | 1 | 0 | `0010` |
 | 15 м | 21 МГц | 0 | 1 | 1 | 0 | `0110` |
-
-## Розрахунок 7,2 МГЦ. [LC Filter Design Tool](https://markimicrowave.com/technical-resources/tools/lc-filter-design-tool/)
+## Розрахунки
+Для розрахунків використано онлайн калькулятор:  [LC Filter Design Tool](https://markimicrowave.com/technical-resources/tools/lc-filter-design-tool/)
+## Розрахунок 3,6 МГЦ.
+![CALC](MEDIA/3.6MHZ/CALC_3.6.jpg)
+## Розрахунок 7,2 МГЦ.
 ![CALC](MEDIA/7.2MHZ/CALC_7.2.jpg)
 
 ## Зовнішній вигляд
