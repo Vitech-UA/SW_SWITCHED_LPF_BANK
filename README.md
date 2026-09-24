@@ -38,7 +38,7 @@
 
 | Верхня сторона плати | Верхня сторона без компонентів | Нижня сторона |
 |:---:|:---:|:---:|
-| <img src="MEDIA/TOP.jpg" width="300"> | <img src="MEDIA/TOP_EMPTY.jpg" width="300"> | <img src="MEDIA/BOT_EMPTY.jpg" width="300"> |
+| <img src="MEDIA/TOP.jpg" width="400"> | <img src="MEDIA/TOP_EMPTY.jpg" width="300"> | <img src="MEDIA/BOT_EMPTY.jpg" width="300"> |
 
 ## Збірка (Без L & C)
 
